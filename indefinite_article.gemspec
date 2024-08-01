@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = IndefiniteArticle::VERSION
   s.authors     = ["Andrew Rossmeissl", 'Shane Brinkman-Davis']
   s.email       = ["andy@rossmeissl.net"]
-  s.homepage    = "http://github.com/rossmeissl/indefinite_article"
+  s.homepage    = "https://github.com/sportngin/indefinite_article"
   s.summary     = %q{Adds indefinite article methods to String and Symbol}
   s.description = %q{Adds indefinite article methods to String and Symbol, because there's a little Grammar Nazi in all of us}
 
