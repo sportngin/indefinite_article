@@ -14,7 +14,8 @@ Gem::Specification.new do |s|
   s.files         = [
     'indefinite_article.gemspec',
     'lib/indefinite_article.rb',
-    'lib/indefinite_article/version.rb'
+    'lib/indefinite_article/version.rb',
+    'lib/indefinite_article/articulated.rb'
   ]
   s.test_files    = [
     'test/test_indefinite_article.rb'
