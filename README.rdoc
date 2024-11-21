@@ -1,3 +1,4 @@
+
 = indefinite_article
 
 Adds indefinite article methods to String and Symbol so that you can do:
